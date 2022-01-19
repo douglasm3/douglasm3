@@ -1,3 +1,7 @@
+# DOUGLAS
+![Profile Picture](Amani.jpg "Profile Picture")
+
+## About Me:
 - 👋 Hi, I’m @douglasm3
 - 👀 I’m interested in Java and web app development
 - 🌱 I’m currently learning Java
